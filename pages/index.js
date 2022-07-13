@@ -58,7 +58,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by javascript{' '}
           <span className={styles.logo}>
             
           </span>
